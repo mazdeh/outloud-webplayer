@@ -1,0 +1,27 @@
+{
+  "name": "outloud-webplayer",
+  "version": "1.0.0",
+  "description": "Outloud Webplayer - React + Redux",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazdeh/outloud-webplayer.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "webplayer",
+    "outloud"
+  ],
+  "author": "Vahid Mazdeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazdeh/outloud-webplayer/issues"
+  },
+  "homepage": "https://github.com/mazdeh/outloud-webplayer#readme"
+}
